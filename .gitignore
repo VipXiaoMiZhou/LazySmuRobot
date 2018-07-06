@@ -1,0 +1,8 @@
+.classpath
+.class
+.project
+.settings/
+.log
+.idea
+*.war
+*.jar
